@@ -368,14 +368,11 @@ margin-right: 1rem;}
 
 .headline-portfolio .titulo {
     width: 50%;
-    font-size: 8vw;
-    font-weight: lighter;
-    font-family: var(--font-grande);
+  
 }
 
 .headline-portfolio .descricao {
     width: 50%;
-    font-size: 2rem;
     text-align: right;
     line-height: 1.4;
     letter-spacing: 1.5px;
@@ -480,7 +477,7 @@ margin-right: 1rem;}
 
 .conteudo-textos-case h1 {
     color: white;
-    font-size: 6vw;
+    font-size: 3rem;
     letter-spacing: 3px;
 }
 
@@ -492,19 +489,6 @@ margin-right: 1rem;}
     padding-bottom: 1.5rem;
 }
 
-.conteudo-textos-case span {
-    width: 180px;
-    font-size: 1.2rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 40px;
-    background-color: white;
-    border-radius: 50px;
-    color: var(--color-black);
-    font-weight: bold;
-    letter-spacing: 1.2px;
-}
 
 
 
