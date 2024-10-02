@@ -18,6 +18,9 @@ function mudaoTamanho() {
 }
 */
 
+
+
+
 let show = true;
 const menuContent = document.querySelector('.content');
 const menuToggle = menuContent.querySelector('.menu-toggle');
@@ -72,4 +75,7 @@ document.addEventListener('DOMContentLoaded', function() {
         // Exibe o slide inicial
         showSlide(currentIndex);
     });
+
+
+
 });
