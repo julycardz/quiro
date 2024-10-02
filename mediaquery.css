@@ -122,7 +122,9 @@
         width: 350px;
         text-align: center;
     }
+
 }
+
 
 @media (max-width: 645px) {
     .sobre-nos img {
