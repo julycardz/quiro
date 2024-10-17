@@ -156,8 +156,12 @@ transition: all 200ms ;
     font-size: 1.6rem;
     margin-bottom: 3rem;
     color: white;
-    font-weight: 400;
 }
+
+.container-inicio p{
+    color: white;
+}
+
 
 button {
    width: 150px;
@@ -166,7 +170,7 @@ button {
    color: black;
    border-radius: 10px;
    font-weight: 700;
-   transition: all 400ms ease-in;
+   transition: all 300ms ease-in;
 
    
 
